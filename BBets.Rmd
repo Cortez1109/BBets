@@ -61,6 +61,8 @@ uci=mean(bank)+sqrt(var(bank))*1.96
 print(lci)
 print(uci)
 ```
+Average profit = $280
+
 # What are the fair odds? Use manipulation of odds in the function to tune Brownlows earnings to zero. 
 
 
@@ -78,7 +80,7 @@ uci=mean(bank)+sqrt(var(bank))*1.96
 print(lci)
 print(uci)
 ```
-The graph shoes the about 4.4 will be the amount pay off.  
+The graph shows the fair odds to have Mr be close to 0 which is 4.4. 
 
 
 
@@ -97,12 +99,11 @@ uci=mean(bank)+sqrt(var(bank))*1.96
 print(lci)
 print(uci)
 ```
-28 people in class then 2:1 bet is about fair.
+This shows that for it to be equal it has to be 28 students for it to be fair  for 2.1
 <!--Explain and display the results of your method of coming up with the estimate of professor Brownlows betting profits!-->
 
 
 # Discussion and Conclusion
-28 people in class then 2:1 bet is about fair. The graph shoes the about 4.4 will be the amount pay off.  
-
+Mr brownlow needst o be at a 4.4 so that his proit is close to zero. Aslo the size of class needs to be 28 in order to have his cureent scheme balance at zero. Lastly the avaerage profit will be $280.
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
